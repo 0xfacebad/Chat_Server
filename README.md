@@ -10,4 +10,6 @@ You can find the project repository at https://github.com/yasir378/Chat_Server.g
 To run the project, use the following command:
 
 ```bash
+git clone https://github.com/yasir378/Chat_Server.git
+cd <DIR>
 cargo run

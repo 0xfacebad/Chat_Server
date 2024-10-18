@@ -1,4 +1,4 @@
-// let  day Alice lagre Prime number is a = 100000007
+// let  say Alice lagre Prime number is a = 100000007
 // then the non zero vlaue will be  p = 3453
 
 

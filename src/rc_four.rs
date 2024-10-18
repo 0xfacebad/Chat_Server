@@ -7,7 +7,7 @@ impl RcFour{
        }
 
        pub fn rc4_key_scheduling(&self)->[u8;256]{
-              let key:&[u8] = b"YourSecretKey123456789012fdsfdfdf34"; // bad coding prcatice to hard code a values 
+              let key:&[u8] = b"YourSecretKey123456789012fdsfdfdf34"; // bad coding prcatice to hard code  values 
               let key_length = key.len();
               let mut s:[u8;256] =[0;256];
               for i in 0..s.len(){s[i] = i as u8;}
